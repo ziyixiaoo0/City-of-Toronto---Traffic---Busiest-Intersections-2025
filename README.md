@@ -27,7 +27,7 @@ dates, acknowledging that:
 
 ### Top 10 Busiest Intersections (by recorded volume, 2025)
 
-
+<img src="Top%2010%20Intersections.png" alt="Lineup" width="300" height="300"/>
 
 *Note: rankings are based on single-day counts and should be interpreted as indicative rather 
 than definitive, given inconsistent sampling across intersections.*
