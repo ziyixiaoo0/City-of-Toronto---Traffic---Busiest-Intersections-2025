@@ -27,12 +27,11 @@ dates, acknowledging that:
 
 ### Top 10 Busiest Intersections (by recorded volume, 2025)
 
-<img src="Top%2010%20Intersections.png" alt="Lineup" width="600" height="600"/>
+<img src="Top%2010%20Intersections.png" alt="Lineup" width="700" height="700"/>
 
 *Note: rankings are based on single-day counts and should be interpreted as indicative rather 
 than definitive, given inconsistent sampling across intersections.*
 
 ### Caveats
 - Results may be sensitive to which day of the week each intersection was sampled.
-- Total volume combines all modes (vehicles, cyclists, pedestrians) — consider whether a 
-  mode-specific breakdown better serves your question.
+- Total volume combines all modes (vehicles, cyclists, pedestrians) 
